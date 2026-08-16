@@ -1,4 +1,5 @@
 #  Game 
+![Game Screenshot] <img width="1919" height="866" alt="Screenshot 2026-08-16 130256" src="https://github.com/user-attachments/assets/3b736571-e933-4245-ad66-251f45414020" />
 
 A simple 2D web game built with **KAPLAY.js**, Node.js, and JavaScript.
 

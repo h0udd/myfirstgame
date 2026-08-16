@@ -19,4 +19,4 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/h0udd/repository-name.git](https://github.com/h0udd/repository-name.git)
+     https://h0udd.github.io/myfirstgame/
